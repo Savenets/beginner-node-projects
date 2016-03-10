@@ -10,10 +10,6 @@ This repository contains tasks and demo projects suitable for beginners to learn
 - Use [example-package.json][package.json] as a template for tasks
 - Use freely popular packages (i.e. `lodash`, `commander`)
 
-## Terms
-
-CRUD - Create, Read, Update, Delete
-
 ## Learning Resources
 
 - https://github.com/sergtitov/NodeJS-Learning
