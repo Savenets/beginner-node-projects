@@ -1,7 +1,7 @@
 # Simple JIRA
 
-- create new web project with ExpressJS
-- use Bootstrap or Zurb Foundation for front-end
+- create new web project with [ExpressJS][express]
+- use [Bootstrap][bootstrap] or [Zurb Foundation][foundation] for front-end
 - store data in MySQL/PostgreSQL database
 - provide RESTful API
 - have 3 entities: Projects, Issues, Users (Issues belongs to Project, Issues are assigned to User)
@@ -13,5 +13,10 @@
   - projects with the biggest amount of unresolved issues
   - users with no tasks
   - users with too many tasks (top 10)
-- write tests (use Mocha)
+- write tests (use [Mocha][mocha])
 - logging
+
+[express]: http://expressjs.com/
+[bootstrap]: http://getbootstrap.com/
+[foundation]: http://foundation.zurb.com/
+[mocha]: https://mochajs.org/
