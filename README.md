@@ -1,6 +1,6 @@
 # Beginner's NodeJS projects
 
-This repository contains tasks and demo projects suitable for beginners to learn NodeJS.
+Practical tasks and demo projects suitable for beginners to learn NodeJS.
 
 ## Common requirements
 
@@ -12,7 +12,7 @@ This repository contains tasks and demo projects suitable for beginners to learn
 
 ## Learning Resources
 
-- https://github.com/sergtitov/NodeJS-Learning
+- [NodeJS Learning][NodeJS-Learning]
 
 [eslint]: http://eslint.org/
 [eslint-config]: https://github.com/igorshubovych/beginner-node-projects/blob/master/.eslintrc.json
@@ -23,3 +23,5 @@ This repository contains tasks and demo projects suitable for beginners to learn
 
 [lodash]: https://lodash.com/
 [commander]: https://github.com/tj/commander.js/
+
+[NodeJS-Learning]: https://github.com/sergtitov/NodeJS-Learning

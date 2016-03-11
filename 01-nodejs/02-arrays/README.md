@@ -13,4 +13,4 @@
 - Print director names alphabetically (no duplicates)
 - Print top-billed actors names (no duplicates); use regex to parse Actors field
 
-[lodash: https://www.npmjs.com/package/lodash
+[lodash]: https://www.npmjs.com/package/lodash

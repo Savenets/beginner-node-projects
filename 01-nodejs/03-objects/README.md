@@ -7,11 +7,13 @@ Recreate a subdomain of very simple issue tracking system.
 The domain will have only 3 objects: _Project_, _Issue_, _User_.
 
 _Project_ has fields:
+
 - ID
 - name
 - list of issues
 
 _Issue_ has fields:
+
 - ID
 - description
 - long description
@@ -23,6 +25,7 @@ _Issue_ has fields:
 - reopen() method
 
 _User_ has fields:
+
 - ID
 - first name
 - last name

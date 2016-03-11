@@ -1,6 +1,7 @@
 # Command-Line tools
 
-You can use [minimist][minimist] or [commander][commander] to parse command-line arguments.
+You can use [minimist][minimist] or [commander][commander]
+to parse command-line arguments.
 
 ## Create copy utility
 
