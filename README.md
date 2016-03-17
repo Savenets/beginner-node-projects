@@ -2,6 +2,14 @@
 
 Practical tasks and demo projects suitable for beginners to learn NodeJS.
 
+## Projects
+
+Recommended sequence for projects to solve.
+
+1. [NodeJS projects](https://github.com/igorshubovych/beginner-node-projects/tree/master/nodejs)
+1. [Web projects](https://github.com/igorshubovych/beginner-node-projects/tree/master/web)
+1. [Database projects](https://github.com/igorshubovych/beginner-node-projects/tree/master/database)
+
 ## Common requirements
 
 - Use the latest NodeJS version with ECMAScript 6 features
